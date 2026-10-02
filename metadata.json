@@ -1,0 +1,6 @@
+{
+  "name": "SiliconAtlas - CPU & GPU Hardware Database",
+  "description": "Comprehensive CPU and GPU database covering Intel, AMD, and Nvidia across all generations, core configurations, and budgets with real-time specs comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
